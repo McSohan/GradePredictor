@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GradePredictor</string>
+    <string name="title_string">RVCE Grade Predictor</string>
+    <string name="cie">CIE SCORE</string>
+    <string name="see">SEE SCORE</string>
+    <string name="button_text">GRADE</string>
+    <string name="resultText"></string>
+</resources>
